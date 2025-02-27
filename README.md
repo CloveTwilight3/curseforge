@@ -2,7 +2,6 @@
 [< Back to main page](https://clovetwilight3.github.io/)
 
 # Fabric Loader
-## You must have the Fabric Loader installed to make these work!
 
 If you are unsure on how to install this, you can ping Clove
 
