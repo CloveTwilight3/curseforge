@@ -1,4 +1,4 @@
-# Prism Launcher
+# CurseForge
 [< Back to main page](https://clovetwilight3.github.io/)
 
 
